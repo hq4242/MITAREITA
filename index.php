@@ -107,17 +107,12 @@
                           <h1>Museo Carlos Dreyer</h1>
                           <p>Es la reserva histórica de Puno, que <br>conserva y preserva bienes culturales.</p>
                           <div class="white-button button">
-                              <a href="#featured">Ver mas</a>
+                              <a href="http://virtual.munipuno.gob.pe/museo-dreyer/" target="_blank">Ver mas</a>
                           </div>
                         </div>
                         </div>
                     </div>
                 </div>
-
-
-
-
-
 
             </div>
         </div>
@@ -629,6 +624,5 @@
     </script>
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
-
 </body>
 </html>
