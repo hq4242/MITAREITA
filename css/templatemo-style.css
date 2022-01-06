@@ -17,7 +17,7 @@ p {
 }
 
 .page-content {
-  width: 77.5%;
+  width: 100%;
   float: right;
 }
 
@@ -367,7 +367,7 @@ header {
 }
 
 .Modern-Slider .slick-dots {
-  opacity: 0;
+  opacity: 50;
 }
 
 .Modern-Slider .NextArrow{
@@ -414,15 +414,23 @@ header {
 }
 
 .Modern-Slider .item-1 .image {
-  background-image: url(../img/slide_1.jpg);
+  background-image: url(../img/sl1.jpg);
 }
 
 .Modern-Slider .item-2 .image {
-  background-image: url(../img/slide_2.jpg);
+  background-image: url(../img/sl2.jpg);
 }
 
 .Modern-Slider .item-3 .image {
-  background-image: url(../img/slide_3.jpg);
+  background-image: url(../img/sl3.jpg);
+}
+
+.Modern-Slider .item-4 .image {
+  background-image: url(../img/sl8.jpg);
+}
+
+.Modern-Slider .item-5 .image {
+  background-image: url(../img/sl9.jpg);
 }
 
 .Modern-Slider .PrevArrow:before{content:'\f104';}

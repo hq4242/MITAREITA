@@ -1,10 +1,9 @@
-
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Sentra - Free Bootstrap Theme</title>
+        <title>Turismo - Puno</title>
         
 <!-- 
 
@@ -88,6 +87,44 @@ https://templatemo.com/tm-518-sentra
                     </div>
                 </div>
                 <!-- // Item -->
+
+                <div class="item item-4">
+                    <div class="img-fill">
+                    <div class="image"></div>
+                    <div class="info">
+                        <div>
+                          <h1>Beautiful Template<br>Sentra</h1>
+                          <p>Sentra is free Bootstrap CSS Template by templatemo website.<br>
+                          	Please share our site link to your friends.</p>
+                          <div class="white-button button">
+                              <a href="#featured">Discover More</a>
+                          </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="item item-5">
+                    <div class="img-fill">
+                    <div class="image"></div>
+                    <div class="info">
+                        <div>
+                          <h1>Beautiful Template<br>Sentra</h1>
+                          <p>Sentra is free Bootstrap CSS Template by templatemo website.<br>
+                          	Please share our site link to your friends.</p>
+                          <div class="white-button button">
+                              <a href="#featured">Discover More</a>
+                          </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+
             </div>
         </div>
 
@@ -95,7 +132,7 @@ https://templatemo.com/tm-518-sentra
         <div class="page-content">
             <section id="featured" class="content-section">
                 <div class="section-heading">
-                    <h1>Featured<br><em>Places</em></h1>
+                    <h1>Complejos<br><em>Arqueologicos</em></h1>
                     <p>Praesent pellentesque efficitur magna, 
                     <br>sed pellentesque neque malesuada vitae.</p>
                 </div>
@@ -103,20 +140,20 @@ https://templatemo.com/tm-518-sentra
                     <div class="owl-carousel owl-theme">
                         <div class="item">
                             <div class="image">
-                                <img src="img/featured_1.jpg" alt="">
+                                <img src="img/slider_sillustani.jpg" alt="">
                                 <div class="featured-button button">
                                     <a href="#projects">Continue Reading</a>
                                 </div>
                             </div>
                             <div class="text-content">
-                                <h4>Lorem ipsum dolor</h4>
+                                <h4>SILLUSTANI</h4>
                                 <span>Proin et sapien</span>
-                                <p>#1 You are allowed to use Sentra Template for your business or client websites. You can use it for commercial or non-commercial or educational purposes.</p>
+                                <p>Es un sitio arquitectónico funerario de reinos y señorios (Qolla) e Inca, se pueden observar andenes, chullpas y plazas circulares. Sillustani siginifica "Forma de Uña".</p>
                             </div>
                         </div>
                         <div class="item">
                             <div class="image">
-                                <img src="img/featured_2.jpg" alt="">
+                                <img src="img/slider_cutimbo.jpg" alt="">
                                 <div class="featured-button button">
                                     <a href="#projects">Continue Reading</a>
                                 </div>
@@ -129,7 +166,7 @@ https://templatemo.com/tm-518-sentra
                         </div>
                         <div class="item">
                             <div class="image">
-                                <img src="img/featured_3.jpg" alt="">
+                                <img src="img/slider_pinturasrupestres.jpg" alt="">
                                 <div class="featured-button button">
                                     <a href="#projects">Continue Reading</a>
                                 </div>
@@ -142,7 +179,7 @@ https://templatemo.com/tm-518-sentra
                         </div>
                         <div class="item">
                             <div class="image">
-                                <img src="img/featured_2.jpg" alt="">
+                                <img src="img/slider_incauyo.jpg" alt="">
                                 <div class="featured-button button">
                                     <a href="#projects">Continue Reading</a>
                                 </div>
