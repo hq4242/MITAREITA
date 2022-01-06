@@ -4,14 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>Turismo - Puno</title>
-        
-<!-- 
 
-Sentra Template
-
-https://templatemo.com/tm-518-sentra
-
--->
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -41,11 +34,13 @@ https://templatemo.com/tm-518-sentra
                     <div class="image"></div>
                     <div class="info">
                         <div>
-                          <h1>Beautiful Template<br>Sentra</h1>
-                          <p>Sentra is free Bootstrap CSS Template by templatemo website.<br>
-                          	Please share our site link to your friends.</p>
+                          <h1>Isla Los Uros</h1>
+                          <p>Isla flotante de los Uros son un <br>
+                             grupo de islas artificiales 
+                              echas de totora
+                          </p>
                           <div class="white-button button">
-                              <a href="#featured">Discover More</a>
+                              <a href="https://www.turismopuno.com/isla_uros">Visitar</a>
                           </div>
                         </div>
                         </div>
@@ -109,11 +104,10 @@ https://templatemo.com/tm-518-sentra
                     <div class="image"></div>
                     <div class="info">
                         <div>
-                          <h1>Beautiful Template<br>Sentra</h1>
-                          <p>Sentra is free Bootstrap CSS Template by templatemo website.<br>
-                          	Please share our site link to your friends.</p>
+                          <h1>Museo Carlos Dreyer</h1>
+                          <p>Es la reserva histórica de Puno, que <br>conserva y preserva bienes culturales.</p>
                           <div class="white-button button">
-                              <a href="#featured">Discover More</a>
+                              <a href="#featured">Ver mas</a>
                           </div>
                         </div>
                         </div>
