@@ -22,10 +22,11 @@
     </head>
 
 <body>
-
-
-
-        
+<div class="navbar">
+            <?php 
+              include "nav.php";
+            ?>
+          </div>
         <div class="slider">
             <div class="Modern-Slider content-section" id="top">
                 <!-- Item -->
@@ -567,11 +568,11 @@
                     </div>
                 </div>
             </section>
-            <section class="footer">
-                <p>Copyright &copy; 2019 Company Name 
-                
-                . Design: TemplateMo</p>
-            </section>
+                <footer class="blockquote footer">
+                    <?php
+                    include "footer.php";
+                    ?>
+                </footer>
         </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
